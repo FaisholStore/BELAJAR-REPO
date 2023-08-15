@@ -6,3 +6,10 @@ Tanggal 15 - 20: 10%
 Pengenalan dasar tentang Git dan GitHub.
 Menginstal Git dan mengkonfigurasi informasi pengguna.
 Mempelajari inisialisasi repositori, menambahkan berkas, dan membuat commit.
+
+
+Tanggal 21 - 25: 25%
+
+Memahami manajemen versi dengan melihat riwayat commit dan berpindah antara commit.
+Pembatalan perubahan dengan "reset" dan "revert".
+Memahami konsep bercabang (branching) dan membuat cabang baru.
